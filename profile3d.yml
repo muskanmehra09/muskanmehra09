@@ -8,24 +8,23 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
-      - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: muskanmehra09
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated 3d contribution graph"; then git push; fi
 
-      - name: Push output to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: profile-3d-contrib
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
