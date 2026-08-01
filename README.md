@@ -74,6 +74,16 @@
 
 <div align="center">
 
+### 🌌 3D Contribution Universe
+
+<img src="https://raw.githubusercontent.com/muskanmehra09/muskanmehra09/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/muskanmehra09/muskanmehra09/output/github-contribution-grid-snake.svg" width="100%">
