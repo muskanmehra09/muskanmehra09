@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:7597de&height=260&section=header&text=Welcome,%20I'm%20Muskan%20Mehra%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20Enthusiast%20%C2%B7%20Data%20Engineering%20%C2%B7%20Building%20NeuroVox-9&descAlignY=58&descSize=17&animation=twinkling"/>
+<img src="https://raw.githubusercontent.com/muskanmehra09/muskanmehra09/main/hero-banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duplex=false&pause=1000&color=7597DE&center=true&vCenter=true&width=650&lines=she%2Fher+%C2%B7+CSE+Undergrad+%F0%9F%8E%93;AI%2FML+Enthusiast+%F0%9F%A7%A0;Turning+voice+%26+images+into+insight+%F0%9F%8E%99%EF%B8%8F;Currently+building%3A+NeuroVox-9+%F0%9F%8C%B8" alt="Typing SVG" />
@@ -39,7 +39,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/muskanmehra09/muskanmehra09/main/matrix-rain.svg" width="100%">
+<img src="https://raw.githubusercontent.com/muskanmehra09/muskanmehra09/main/glitch-text.svg" width="100%">
 
 </div>
 
