@@ -33,6 +33,16 @@
 
 <div align="center">
 
+### 👾 root@muskan:~$
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duplex=false&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+muskan_mehra+%E2%9C%A8;%24+status+--check;%3E+building_the_future%3A+true;%24+ping+opportunities.com;%3E+response%3A+100%25+ready+%F0%9F%9A%80" alt="Terminal Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=muskanmehra09&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
