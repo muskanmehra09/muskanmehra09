@@ -1,0 +1,665 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%" height="180">
+
+<style>
+  .col text {
+    font-family: 'Fira Code', monospace;
+    font-size: 15px;
+  }
+  rect.bg {
+    fill: #000000;
+    opacity: 0.0;
+  }
+</style>
+<rect class="bg" x="0" y="0" width="900" height="180"/>
+
+<g class="col">
+  <text x="4" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="4" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="4" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="4" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="4" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="4" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="4" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="4" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="4" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="4" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="4" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="4" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="4" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-198" to="0,216" dur="2.46s" begin="-3.84s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="22" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="22" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="22" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="22" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="22" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="22" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="22" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="22" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="22" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="22" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="22" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="22" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-180" to="0,216" dur="2.98s" begin="-3.92s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="40" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="40" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="40" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="40" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="40" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="40" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="40" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="40" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="40" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="40" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-144" to="0,216" dur="4.24s" begin="-2.32s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="58" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="58" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="58" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="58" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="58" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="58" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="58" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="58" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="58" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="58" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="58" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-162" to="0,216" dur="4.59s" begin="-0.67s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="76" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="76" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="76" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="76" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="76" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="76" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="76" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="76" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="76" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="76" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="76" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-162" to="0,216" dur="3.91s" begin="-4.14s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="94" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="94" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="94" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="94" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="94" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="94" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="94" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="94" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="94" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="94" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="94" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="94" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="94" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-198" to="0,216" dur="3.32s" begin="-4.67s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="112" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="112" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="112" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="112" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="112" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="112" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="112" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="112" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="112" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="112" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="112" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="112" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-180" to="0,216" dur="4.29s" begin="-2.86s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="130" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="130" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="130" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="130" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="130" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="130" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="130" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="130" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="130" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="130" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="130" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="130" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-180" to="0,216" dur="4.42s" begin="-2.89s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="148" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="148" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="148" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="148" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="148" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="148" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="148" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="148" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-108" to="0,216" dur="4.11s" begin="-2.32s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="166" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="166" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="166" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="166" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="166" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="166" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="166" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="166" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="166" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="166" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-144" to="0,216" dur="4.92s" begin="-1.19s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="184" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="184" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="184" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="184" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="184" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="184" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="184" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="184" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="184" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="184" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="184" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="184" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-180" to="0,216" dur="2.51s" begin="-3.19s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="202" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="202" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="202" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="202" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="202" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="202" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="202" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="202" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="202" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="202" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-144" to="0,216" dur="2.56s" begin="-2.62s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="220" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="220" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="220" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="220" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="220" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="220" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="220" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="220" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="220" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="220" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="220" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="220" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-180" to="0,216" dur="2.54s" begin="-3.88s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="238" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="238" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="238" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="238" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="238" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="238" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="238" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="238" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="238" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="238" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-144" to="0,216" dur="4.74s" begin="-0.7s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="256" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="256" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="256" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="256" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="256" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="256" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="256" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="256" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-108" to="0,216" dur="2.88s" begin="-2.64s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="274" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="274" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="274" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="274" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="274" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="274" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="274" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="274" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="274" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="274" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="274" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-162" to="0,216" dur="4.09s" begin="-0.08s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="292" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="292" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="292" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="292" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="292" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="292" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="292" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="292" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-108" to="0,216" dur="2.73s" begin="-2.76s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="310" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="310" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="310" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="310" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="310" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="310" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="310" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="310" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="310" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="310" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="310" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-162" to="0,216" dur="4.91s" begin="-0.37s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="328" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="328" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="328" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="328" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="328" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="328" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="328" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="328" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="328" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-126" to="0,216" dur="2.66s" begin="-4.99s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="346" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="346" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="346" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="346" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="346" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="346" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="346" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="346" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="346" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="346" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="346" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-162" to="0,216" dur="4.91s" begin="-2.1s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="364" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="364" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="364" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="364" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="364" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="364" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="364" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="364" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="364" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="364" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="364" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="364" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-180" to="0,216" dur="3.87s" begin="-1.62s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="382" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="382" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="382" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="382" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="382" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="382" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="382" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="382" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="382" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-126" to="0,216" dur="4.82s" begin="-3.98s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="400" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="400" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="400" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="400" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="400" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="400" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="400" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="400" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="400" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="400" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="400" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="400" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="400" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-198" to="0,216" dur="3.94s" begin="-2.19s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="418" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="418" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="418" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="418" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="418" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="418" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="418" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="418" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-108" to="0,216" dur="4.66s" begin="-3.15s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="436" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="436" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="436" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="436" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="436" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="436" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="436" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="436" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="436" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-126" to="0,216" dur="2.52s" begin="-4.46s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="454" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="454" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="454" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="454" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="454" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="454" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="454" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="454" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="454" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="454" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="454" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="454" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-180" to="0,216" dur="2.46s" begin="-2.88s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="472" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="472" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="472" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="472" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="472" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="472" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="472" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="472" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="472" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="472" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-144" to="0,216" dur="3.77s" begin="-4.44s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="490" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="490" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="490" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="490" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="490" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="490" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="490" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="490" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="490" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="490" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="490" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="490" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="490" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-198" to="0,216" dur="2.79s" begin="-3.75s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="508" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="508" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="508" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="508" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="508" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="508" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="508" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="508" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-108" to="0,216" dur="4.67s" begin="-4.88s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="526" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="526" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="526" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="526" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="526" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="526" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="526" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="526" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="526" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="526" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="526" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="526" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="526" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-198" to="0,216" dur="4.49s" begin="-2.7s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="544" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="544" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="544" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="544" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="544" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="544" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="544" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="544" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="544" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="544" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-144" to="0,216" dur="4.91s" begin="-3.6s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="562" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="562" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="562" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="562" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="562" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="562" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="562" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="562" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="562" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="562" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="562" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="562" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="562" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-198" to="0,216" dur="4.24s" begin="-3.43s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="580" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="580" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="580" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="580" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="580" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="580" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="580" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="580" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="580" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="580" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="580" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="580" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-180" to="0,216" dur="2.4s" begin="-1.68s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="598" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="598" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="598" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="598" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="598" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="598" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="598" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="598" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="598" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="598" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-144" to="0,216" dur="3.75s" begin="-4.04s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="616" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="616" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="616" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="616" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="616" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="616" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="616" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="616" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="616" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="616" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="616" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="616" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="616" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-198" to="0,216" dur="3.44s" begin="-1.62s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="634" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="634" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="634" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="634" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="634" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="634" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="634" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="634" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="634" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="634" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="634" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="634" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-180" to="0,216" dur="2.61s" begin="-4.77s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="652" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="652" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="652" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="652" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="652" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="652" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="652" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="652" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="652" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="652" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="652" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-162" to="0,216" dur="4.04s" begin="-4.97s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="670" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="670" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="670" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="670" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="670" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="670" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="670" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="670" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-108" to="0,216" dur="4.77s" begin="-4.39s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="688" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="688" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="688" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="688" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="688" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="688" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="688" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="688" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="688" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-126" to="0,216" dur="3.46s" begin="-1.24s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="706" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="706" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="706" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="706" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="706" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="706" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="706" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="706" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="706" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="706" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="706" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="706" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="706" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-198" to="0,216" dur="4.7s" begin="-4.6s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="724" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="724" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="724" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="724" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="724" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="724" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="724" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="724" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="724" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-126" to="0,216" dur="3.13s" begin="-2.67s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="742" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="742" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="742" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="742" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="742" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="742" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="742" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="742" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-108" to="0,216" dur="2.22s" begin="-3.24s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="760" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="760" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="760" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="760" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="760" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="760" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="760" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="760" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="760" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="760" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="760" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-162" to="0,216" dur="3.14s" begin="-1.6s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="778" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="778" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="778" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="778" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="778" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="778" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="778" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="778" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="778" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="778" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="778" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-162" to="0,216" dur="4.63s" begin="-4.09s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="796" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="796" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="796" dy="18" fill="#00FF41" fill-opacity="0.15">1</tspan><tspan x="796" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="796" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="796" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="796" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="796" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="796" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="796" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-144" to="0,216" dur="4.31s" begin="-0.84s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="814" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="814" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="814" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="814" dy="18" fill="#00FF41" fill-opacity="0.23">1</tspan><tspan x="814" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="814" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="814" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="814" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="814" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="814" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-144" to="0,216" dur="4.31s" begin="-0.25s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="832" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="832" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="832" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="832" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="832" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="832" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="832" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="832" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="832" dy="18" fill="#CFFFE0" fill-opacity="1.00">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-126" to="0,216" dur="3.5s" begin="-3.72s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="850" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="850" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="850" dy="18" fill="#00FF41" fill-opacity="0.15">0</tspan><tspan x="850" dy="18" fill="#00FF41" fill-opacity="0.23">0</tspan><tspan x="850" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="850" dy="18" fill="#00FF41" fill-opacity="0.45">1</tspan><tspan x="850" dy="18" fill="#00FF41" fill-opacity="0.56">0</tspan><tspan x="850" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="850" dy="18" fill="#00FF41" fill-opacity="0.78">1</tspan><tspan x="850" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-144" to="0,216" dur="3.31s" begin="-1.42s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="868" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="868" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="868" dy="18" fill="#00FF41" fill-opacity="0.34">0</tspan><tspan x="868" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="868" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="868" dy="18" fill="#00FF41" fill-opacity="0.67">0</tspan><tspan x="868" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="868" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-108" to="0,216" dur="3.69s" begin="-1.69s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+<g class="col">
+  <text x="886" y="0" fill="none">
+  </text>
+
+  <g>
+    <text x="886" y="0" font-family="Fira Code, monospace" font-size="15">
+      <tspan x="886" dy="18" fill="#00FF41" fill-opacity="0.34">1</tspan><tspan x="886" dy="18" fill="#00FF41" fill-opacity="0.45">0</tspan><tspan x="886" dy="18" fill="#00FF41" fill-opacity="0.56">1</tspan><tspan x="886" dy="18" fill="#00FF41" fill-opacity="0.67">1</tspan><tspan x="886" dy="18" fill="#00FF41" fill-opacity="0.78">0</tspan><tspan x="886" dy="18" fill="#CFFFE0" fill-opacity="1.00">1</tspan>
+    </text>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      from="0,-108" to="0,216" dur="4.89s" begin="-1.82s" repeatCount="indefinite"/>
+  </g>
+
+</g>
+</svg>
