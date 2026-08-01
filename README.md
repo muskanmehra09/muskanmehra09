@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFBD,50:C471ED,100:12c2e9&height=250&section=header&text=Hey,%20I'm%20Muskan%20✨&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20machines%20that%20understand%20emotions%20💫&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2b1055,100:7597de&height=200&section=header&text=Muskan%20Mehra&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%2FML%20%C2%B7%20Data%20Engineering%20%C2%B7%20Building%20NeuroVox-9&descAlignY=62&descSize=16"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duplex=false&pause=1000&color=C471ED&center=true&vCenter=true&width=650&lines=she%2Fher+%C2%B7+CSE+Undergrad+%F0%9F%8E%93;AI%2FML+Enthusiast+%F0%9F%A7%A0;Turning+voice+%26+images+into+insight+%F0%9F%8E%99%EF%B8%8F;Currently+building%3A+NeuroVox-9+%F0%9F%8C%B8;Future+Founder+%26+CEO+in+the+making+%F0%9F%91%91" alt="Typing SVG" />
@@ -114,6 +114,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muskanmehra09&color=c471ed&style=flat&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:C471ED,100:FFAFBD&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7597de,100:2b1055&height=100&section=footer"/>
 
 </div>
