@@ -1,16 +1,83 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**muskanmehra09/muskanmehra09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFBD,100:C471ED&height=220&section=header&text=Hey,%20I'm%20Muskan%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20machines%20that%20understand%20emotions%20💫&descAlignY=55&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duplex=false&pause=1000&color=C471ED&center=true&vCenter=true&width=600&lines=she%2Fher+%C2%B7+CSE+Undergrad;AI%2FML+Enthusiast+%F0%9F%A7%A0;Turning+voice+%26+images+into+insight+%F0%9F%8E%99%EF%B8%8F;Currently+building%3A+NeuroVox-9+%F0%9F%8C%B8" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="260">
+
+### 🌸 About Me
+
+- 🔭 Currently building **NeuroVox-9** — a voice emotion recognition system (ML + Flask)
+- 🌱 Learning **LLM integration** and leveling up my **Go** skills
+- 💻 7th-semester CSE undergraduate, always shipping something new
+- 🎯 Passionate about **AI/ML**, data engineering, and human-centered tech
+- ⚡ Fun fact: I make machines feel — literally, that's what my projects do
+- 📫 Reach me: **mehradiyamuskan09@gmail.com**
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,flask,sklearn,git,github,vscode&theme=light" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=muskanmehra09&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=C471ED&icon_color=FFAFBD&text_color=ffffff" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanmehra09&theme=radical&hide_border=true&background=00000000&ring=C471ED&fire=FFAFBD&currStreakLabel=C471ED" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanmehra09&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=C471ED&text_color=ffffff" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Featured Project
+
+<a href="https://github.com/muskanmehra09/NeuroVox-9">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muskanmehra09&repo=NeuroVox-9&theme=radical&hide_border=true&bg_color=00000000&title_color=C471ED&icon_color=FFAFBD&text_color=ffffff" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💌 Let's Connect
+
+<a href="https://www.linkedin.com/in/muskanmehraa">
+  <img src="https://img.shields.io/badge/LinkedIn-C471ED?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mehradiyamuskan09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFAFBD?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/muskanmehra09">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=muskanmehra09&color=c471ed&style=flat&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C471ED,100:FFAFBD&height=100&section=footer"/>
+
+</div>
