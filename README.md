@@ -42,12 +42,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muskanmehra09&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0014&title_color=00F5FF&icon_color=ff2ec4&text_color=b026ff&border_color=b026ff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanmehra09&layout=compact&theme=transparent&hide_border=true&bg_color=0a0014&title_color=00F5FF&text_color=b026ff&border_color=b026ff" width="40%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanmehra09&theme=transparent&hide_border=true&background=0a0014&ring=00F5FF&fire=ff2ec4&currStreakLabel=00F5FF&sideLabels=b026ff&sideNums=b026ff&dates=b026ff&border=b026ff" width="70%"/>
+<img src="./metrics.svg" width="100%"/>
 
 </div>
 
@@ -56,7 +51,7 @@
 ## ⟡ 3D Contribution Calendar
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%"/>
 </div>
 
 <br/>
