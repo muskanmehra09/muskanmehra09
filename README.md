@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:B8860B,100:0d0d0d&height=220&section=header&text=Muskan%20Mehra&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Solutions%20Engineer%20%7C%20Quant%20%2B%20AI%2FML&descAlignY=58&descSize=20&descColor=E5C158" width="100%"/>
+<!-- Custom animated 3D banner: rotating wireframe cube, floating particles, glowing gold title, animated quant chart -->
+<img src="assets/banner.svg" width="100%"/>
 
 <!-- Typing animation -->
 <a href="#">
