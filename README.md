@@ -1,135 +1,83 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/muskanmehra09/muskanmehra09/main/hero-banner.svg" width="100%"/>
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:B8860B,100:0d0d0d&height=220&section=header&text=Muskan%20Mehra&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Solutions%20Engineer%20%7C%20Quant%20%2B%20AI%2FML&descAlignY=58&descSize=20&descColor=E5C158" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duplex=false&pause=1000&color=7597DE&center=true&vCenter=true&width=650&lines=she%2Fher+%C2%B7+CSE+Undergrad+%F0%9F%8E%93;AI%2FML+Enthusiast+%F0%9F%A7%A0;Turning+voice+%26+images+into+insight+%F0%9F%8E%99%EF%B8%8F;Currently+building%3A+NeuroVox-9+%F0%9F%8C%B8" alt="Typing SVG" />
+<!-- Typing animation -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=Building+NeuroVox-9+%F0%9F%A7%A0;Turning+Voice+%2B+Data+into+Intelligence;Quant+Thinking+%C3%97+ML+Engineering;Solutions+that+Scale+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-</div>
+<br/>
 
-<br>
-
-### 🌸 About Me
-
-- 🔭 Currently building **NeuroVox-9** — a voice emotion recognition system (ML + Flask)
-- 🌱 Learning **LLM integration** and leveling up my **Go** skills
-- 💻 7th-semester CSE undergraduate, always shipping something new
-- 🎯 Passionate about **AI/ML**, data engineering, and human-centered tech
-- ⚡ Fun fact: I make machines feel — literally, that's what my projects do
-- 📫 Reach me: **mehradiyamuskan09@gmail.com**
-
----
-
-<div align="center">
-
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,flask,sklearn,git,github,vscode&theme=light&perline=10" />
+<img src="https://img.shields.io/badge/-she%2Fher-B8860B?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/AI%2FML-Enthusiast-FFD700?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Currently%20Building-NeuroVox--9-B8860B?style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
 
----
+<br/>
+
+## 💰 About Me
+
+- 🧠 Currently building **NeuroVox‑9** — a voice emotion recognition system (ML + Flask)
+- 📊 Passionate about **Quantitative problem-solving** — where math meets engineering
+- ⚙️ Focused on **Solutions Engineering** — bridging AI research and real-world deployable products
+- 🌱 Always sharpening skills in Data Engineering, Applied ML & System Design
+- 🎯 Goal: Build things that are technically elegant **and** commercially impactful
+
+<br/>
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 👾 root@muskan:~$
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duplex=false&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+muskan_mehra+%E2%9C%A8;%24+status+--check;%3E+building_the_future%3A+true;%24+ping+opportunities.com;%3E+response%3A+100%25+ready+%F0%9F%9A%80" alt="Terminal Typing SVG" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/muskanmehra09/muskanmehra09/main/glitch-text.svg" width="100%">
+<img src="https://skillicons.dev/icons?i=python,flask,pytorch,tensorflow,sklearn,postgres,docker,git,linux,vscode&theme=dark" />
 
 </div>
 
----
+<br/>
+
+## 📈 GitHub Stats (Quant Style)
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+<img src="https://github-readme-stats.vercel.app/api?username=muskanmehra09&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=FFD700&icon_color=B8860B&text_color=E5C158" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanmehra09&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=E5C158" width="40%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=muskanmehra09&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanmehra09&theme=highcontrast&hide_border=true&background=0d0d0d&ring=FFD700&fire=B8860B&currStreakLabel=FFD700" width="70%"/>
 
 </div>
 
----
+<br/>
+
+## 🐍 Live Contribution Graph (Animated Snake)
 
 <div align="center">
-
-### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muskanmehra09&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=7597DE&icon_color=2C5364&text_color=ffffff" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanmehra09&theme=radical&hide_border=true&background=00000000&ring=7597DE&fire=2C5364&currStreakLabel=7597DE" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanmehra09&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=7597DE&text_color=ffffff" />
-
+  <img src="https://raw.githubusercontent.com/muskanmehra09/muskanmehra09/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
----
+<br/>
+
+## 🚀 Featured Project — NeuroVox‑9
+
+> Turning **voice** and **emotion** into structured, actionable intelligence.
+
+| Layer | Stack |
+|---|---|
+| Audio Processing | Librosa, PyDub |
+| Model | PyTorch / TensorFlow |
+| Serving | Flask API |
+| Deployment | Docker |
+
+<br/>
 
 <div align="center">
 
-### 📈 Activity Graph
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:B8860B,100:0d0d0d&height=100&section=footer" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muskanmehra09&theme=react-dark&hide_border=true&bg_color=00000000&color=7597DE&line=2C5364&point=ffffff" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌌 3D Contribution Universe
-
-<img src="https://raw.githubusercontent.com/muskanmehra09/muskanmehra09/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/muskanmehra09/muskanmehra09/output/github-contribution-grid-snake.svg" width="100%">
-
-<sub>⚙️ activates after the one-time Snake Action setup below</sub>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Featured Project
-
-<a href="https://github.com/muskanmehra09/NeuroVox-9">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muskanmehra09&repo=NeuroVox-9&theme=radical&hide_border=true&bg_color=00000000&title_color=7597DE&icon_color=2C5364&text_color=ffffff" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💌 Let's Connect
-
-<a href="https://www.linkedin.com/in/muskanmehraa">
-  <img src="https://img.shields.io/badge/LinkedIn-7597DE?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mehradiyamuskan09@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/muskanmehra09">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=muskanmehra09&color=c471ed&style=flat&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7597de,50:2c5364,100:0f2027&height=120&section=footer&animation=fadeIn"/>
+**"Not just code — solutions that pay off."** 💛
 
 </div>
